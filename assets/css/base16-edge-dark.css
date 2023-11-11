@@ -8,6 +8,7 @@
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
   color: #b7bec9;
+  background-color: #262729;
 }
 .highlight .err {
   color: #262729;

@@ -7,7 +7,8 @@
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
-  color: #1d1b1d;
+  color: #f5f5f5;
+  background-color: #171517;
 }
 .highlight .err {
   color: #171517;

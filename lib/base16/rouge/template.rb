@@ -5,6 +5,8 @@ require "rouge"
 module Base16
   module Rouge
     class Template < ::Rouge::Themes::Base16
+      dark! # Themes::Base16 only sets bg/fg to 00/05 when in dark mode...
+
       palette base00: "\#{{ base00-hex }}"
       palette base01: "\#{{ base01-hex }}"
       palette base02: "\#{{ base02-hex }}"
