@@ -1,15 +1,21 @@
+GIT
+  remote: https://github.com/skipkayhil/rouge.git
+  revision: 8c03bf00de5eff97d78daf7794db1e7fdf1af858
+  branch: fix-base16-theme
+  specs:
+    rouge (4.2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    rake (13.0.6)
-    rouge (4.0.1)
+    rake (13.1.0)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
   rake (~> 13.0)
-  rouge
+  rouge!
 
 BUNDLED WITH
-   2.4.5
+   2.4.22

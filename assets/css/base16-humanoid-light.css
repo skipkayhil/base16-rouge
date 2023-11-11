@@ -16,23 +16,62 @@
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
   color: #c0c0bd;
 }
-.highlight .cp {
-  color: #ffb627;
-}
-.highlight .nt {
-  color: #ffb627;
-}
 .highlight .o, .highlight .ow {
   color: #232629;
 }
 .highlight .p, .highlight .pi {
   color: #232629;
 }
+.highlight .gd {
+  color: #b0151a;
+}
+.highlight .n, .highlight .nb, .highlight .bp, .highlight .nd, .highlight .ni, .highlight .ne, .highlight .py, .highlight .nl, .highlight .nx, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm {
+  color: #b0151a;
+}
+.highlight .kc {
+  color: #ff3d00;
+}
+.highlight .kd {
+  color: #ff3d00;
+}
+.highlight .kt {
+  color: #ff3d00;
+}
+.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
+  color: #ff3d00;
+}
+.highlight .cp {
+  color: #ffb627;
+}
+.highlight .nc {
+  color: #ffb627;
+}
+.highlight .no {
+  color: #ffb627;
+}
+.highlight .nn {
+  color: #ffb627;
+}
+.highlight .nt {
+  color: #ffb627;
+}
 .highlight .gi {
   color: #388e3c;
 }
-.highlight .gd {
-  color: #b0151a;
+.highlight .s, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
+  color: #388e3c;
+}
+.highlight .ss {
+  color: #388e3c;
+}
+.highlight .sr {
+  color: #008e8e;
+}
+.highlight .na {
+  color: #0082c9;
+}
+.highlight .nf, .highlight .fm {
+  color: #0082c9;
 }
 .highlight .gh {
   color: #0082c9;
@@ -42,45 +81,12 @@
 .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
   color: #700f98;
 }
-.highlight .kc {
-  color: #ff3d00;
-}
-.highlight .kt {
-  color: #ff3d00;
-}
-.highlight .kd {
-  color: #ff3d00;
-}
-.highlight .s, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
-  color: #388e3c;
-}
 .highlight .sa {
   color: #700f98;
-}
-.highlight .sr {
-  color: #008e8e;
-}
-.highlight .si {
-  color: #b27701;
 }
 .highlight .se {
   color: #b27701;
 }
-.highlight .nn {
-  color: #ffb627;
-}
-.highlight .nc {
-  color: #ffb627;
-}
-.highlight .no {
-  color: #ffb627;
-}
-.highlight .na {
-  color: #0082c9;
-}
-.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
-  color: #388e3c;
-}
-.highlight .ss {
-  color: #388e3c;
+.highlight .si {
+  color: #b27701;
 }
