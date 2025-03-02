@@ -7,27 +7,27 @@
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
-  color: #BCBCBC;
+  color: #5F5F87;
   background-color: #262626;
 }
 .highlight .err {
   color: #262626;
-  background-color: #5F8787;
+  background-color: #444444;
 }
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
-  color: #6C6C6C;
+  color: #87875F;
 }
 .highlight .o, .highlight .ow {
-  color: #BCBCBC;
+  color: #5F5F87;
 }
 .highlight .p, .highlight .pi {
-  color: #BCBCBC;
+  color: #5F5F87;
 }
 .highlight .gd {
-  color: #5F8787;
+  color: #444444;
 }
 .highlight .n, .highlight .nb, .highlight .bp, .highlight .nd, .highlight .ni, .highlight .ne, .highlight .py, .highlight .nl, .highlight .nx, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm {
-  color: #5F8787;
+  color: #444444;
 }
 .highlight .kc {
   color: #FF8700;
@@ -42,52 +42,52 @@
   color: #FF8700;
 }
 .highlight .cp {
-  color: #5F8787;
+  color: #87AF87;
 }
 .highlight .nc {
-  color: #5F8787;
+  color: #87AF87;
 }
 .highlight .no {
-  color: #5F8787;
+  color: #87AF87;
 }
 .highlight .nn {
-  color: #5F8787;
+  color: #87AF87;
 }
 .highlight .nt {
-  color: #5F8787;
+  color: #87AF87;
 }
 .highlight .gi {
-  color: #87AF87;
+  color: #FFFFAF;
 }
 .highlight .s, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
-  color: #87AF87;
+  color: #FFFFAF;
 }
 .highlight .ss {
-  color: #87AF87;
+  color: #FFFFAF;
 }
 .highlight .sr {
-  color: #5F875F;
+  color: #87AFD7;
 }
 .highlight .na {
-  color: #FFFFAF;
+  color: #8787AF;
 }
 .highlight .nf, .highlight .fm {
-  color: #FFFFAF;
+  color: #8787AF;
 }
 .highlight .gh {
-  color: #FFFFAF;
+  color: #8787AF;
   background-color: #262626;
   font-weight: bold;
 }
 .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
-  color: #87AFD7;
+  color: #5FAFAF;
 }
 .highlight .sa {
-  color: #87AFD7;
+  color: #5FAFAF;
 }
 .highlight .se {
-  color: #5F87AF;
+  color: #BCBCBC;
 }
 .highlight .si {
-  color: #5F87AF;
+  color: #BCBCBC;
 }

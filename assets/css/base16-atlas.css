@@ -66,16 +66,16 @@
   color: #7fc06e;
 }
 .highlight .sr {
-  color: #14747e;
+  color: #5dd7b9;
 }
 .highlight .na {
-  color: #5dd7b9;
+  color: #14747e;
 }
 .highlight .nf, .highlight .fm {
-  color: #5dd7b9;
+  color: #14747e;
 }
 .highlight .gh {
-  color: #5dd7b9;
+  color: #14747e;
   background-color: #002635;
   font-weight: bold;
 }

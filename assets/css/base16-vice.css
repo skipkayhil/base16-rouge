@@ -7,21 +7,21 @@
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
-  color: #8b9cbe;
-  background-color: #17191E;
+  color: #818181;
+  background-color: #181818;
 }
 .highlight .err {
-  color: #17191E;
+  color: #181818;
   background-color: #ff29a8;
 }
 .highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
-  color: #383a47;
+  color: #3f3f3f;
 }
 .highlight .o, .highlight .ow {
-  color: #8b9cbe;
+  color: #818181;
 }
 .highlight .p, .highlight .pi {
-  color: #8b9cbe;
+  color: #818181;
 }
 .highlight .gd {
   color: #ff29a8;
@@ -76,7 +76,7 @@
 }
 .highlight .gh {
   color: #00eaff;
-  background-color: #17191E;
+  background-color: #181818;
   font-weight: bold;
 }
 .highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
