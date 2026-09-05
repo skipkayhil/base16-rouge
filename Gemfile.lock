@@ -1,14 +1,16 @@
 GIT
-  remote: https://github.com/skipkayhil/rouge.git
-  revision: 8c03bf00de5eff97d78daf7794db1e7fdf1af858
+  remote: https://codeberg.org/skipkayhil/rouge.git
+  revision: b3c542be81316256fe87024b65ffbeaaa0925162
   branch: fix-base16-theme
   specs:
-    rouge (4.2.0)
+    rouge (5.1.0)
+      strscan (~> 3.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    rake (13.1.0)
+    rake (13.4.2)
+    strscan (3.1.8)
 
 PLATFORMS
   x86_64-linux
@@ -18,4 +20,4 @@ DEPENDENCIES
   rouge!
 
 BUNDLED WITH
-   2.4.22
+  4.0.20
