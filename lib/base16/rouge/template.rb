@@ -23,6 +23,8 @@ module Base16
       palette base0D: "\#{{ base0D-hex }}"
       palette base0E: "\#{{ base0E-hex }}"
       palette base0F: "\#{{ base0F-hex }}"
+
+      style Generic::Prompt, fg: :base0E
     end
   end
 end
