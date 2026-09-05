@@ -10,6 +10,9 @@
   color: #c5c8c6;
   background-color: #1d1f21;
 }
+.highlight .gp {
+  color: #A36AC7;
+}
 .highlight .err {
   color: #1d1f21;
   background-color: #CC342B;
